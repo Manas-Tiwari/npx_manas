@@ -1,5 +1,5 @@
 {
-  "name": "manas",
+  "name": "npx_manas",
   "version": "2.0.0",
   "description": "Get to know Manas Tiwari via `npx manas` with nodejs in your terminal.",
   "main": "app.js",
