@@ -1,4 +1,4 @@
-# `npx manas`
+# `npx npx_manas`
 
 > Get to know Manas Tiwari using your command line with Node.js
 
@@ -7,7 +7,7 @@
 To use this CLI run the following command:
 
 ```sh
-npx manas
+npx npx_manas
 ```
 
 ## Development

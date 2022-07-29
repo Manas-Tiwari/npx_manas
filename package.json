@@ -1,7 +1,7 @@
 {
   "name": "npx_manas",
   "version": "2.0.0",
-  "description": "Get to know Manas Tiwari via `npx manas` with nodejs in your terminal.",
+  "description": "Get to know Manas Tiwari via `npx npx_manas` with nodejs in your terminal.",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",

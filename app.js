@@ -11,7 +11,7 @@ const btn = (text, bgColor) => {
 (async function () {
   console.clear();
   console.log(`\n ${btn(' Manas Tiwari ', '#f48c06')} v${program._version} ${chalk.dim('Namaste, This is Manas!')}`)
-  console.log(chalk.dim(` Get to know  Manas via ${chalk.dim.italic('`npx manas-cli`')} \n`))
+  console.log(chalk.dim(` Get to know  Manas via ${chalk.dim.italic('`npx npx_manas`')} \n`))
   //if (info) {
 
   //}
