@@ -1,0 +1,28 @@
+{
+  "name": "manas",
+  "version": "2.0.0",
+  "description": "Get to know Manas Tiwari via `npx manas` with nodejs in your terminal.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch" : "nodemon app.js"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": {
+    "name": "Manas Tiwari",
+    "email": "manast0411@gmail.com",
+    "url": "https://Manas-Tiwari.github.io"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "commander": "^9.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  },
+  "bin": {
+    "manas": "app.js"
+  }
+}
