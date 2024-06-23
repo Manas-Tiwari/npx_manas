@@ -1,6 +1,9 @@
 # `npx npx_manas`
 
-> Get to know Manas Tiwari using your command line with Node.js
+- Get to know Manas Tiwari using your command line with Node.js
+
+## Snapshot
+![sample image](public/sample.png)
 
 ## Usage
 
